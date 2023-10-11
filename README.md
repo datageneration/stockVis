@@ -1,1 +1,1 @@
-# stockVis
+# Visualizing stock prices
